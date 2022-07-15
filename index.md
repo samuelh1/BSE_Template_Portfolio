@@ -1,5 +1,5 @@
 # Obstacle Avoiding Robot
-IN this project i design a robot that is able to maneuver around obstacles using an ultrasonic sensor.  
+In this project i design a robot that is able to maneuver around obstacles using an ultrasonic sensor.  
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
