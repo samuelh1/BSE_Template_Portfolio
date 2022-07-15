@@ -23,3 +23,4 @@ MY first milestone was getting the motors to work work in order to spin the whee
 A problem that I encounter while doing this was that somo mottors were spinning clockwise while others were spinning countercloclkwise which made the robot spin instead of move foward. However I was able to solve this after fixing some problems with my code.
 
 [![Samuel H Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1657551255/video_to_markdown/images/youtube--3aWtaafTSi0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/3aWtaafTSi0 "Samuel H Milestone 1"){:target="_blank" rel="noopener"}
+
