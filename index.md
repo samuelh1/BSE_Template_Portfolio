@@ -1,11 +1,10 @@
 # Obstacle Avoiding Robot
-In this project i design a robot that is able to maneuver around obstacles using an ultrasonic sensor.  
+In this project I design a robot that is able to maneuver around obstacles using an ultrasonic sensor. I was also able to add my own modifications by adding a servo that lets the robot decide which path to take.  
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Samuel H | A-tech | Electrical Engineering | Incoming Senior
 
-(https://www.icloud.com/iclouddrive/0b8LaSAWa-Nrfjv1p5d_Jt1zQ#IMG_8400)
   
 # Final Milestone
 My final milestone I mange to get the robot to turn instead of stopping whenevr theres an obstacle infront of it. I was able to do this by turnin off the motors on the left side and keeping the right ones turn on whenever theres an obstacle within 20 centimters. This allowed the robot to turn to the left. Next I attached the ultrasonic sensor to a SG90 micro servo. When the robot is within 20 centimeters from an obstacle the robot will stops, then servo will turn 45 degrees to the left and right. In each direction, the ultrasonic sensor returns the distance between the robot an the nearest obstacle. The robot turns in the direction with the farther obstacle and continues moving forward until the next obstacle is reached.
