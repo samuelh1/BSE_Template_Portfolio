@@ -10,7 +10,7 @@ In this project i design a robot that is able to maneuver around obstacles using
 # Final Milestone
 My final milestone I mange to get the robot to turn instead of stopping whenevr theres an obstacle infront of it. I was able to do this by turnin off the motors on the left side and keeping the right ones turn on whenever theres an obstacle within 20 centimters. This allowed the robot to turn to the left. Next I attached the ultrasonic sensor to a SG90 micro servo. When the robot is within 20 centimeters from an obstacle the robot will stops, then servo will turn 45 degrees to the left and right. In each direction, the ultrasonic sensor returns the distance between the robot an the nearest obstacle. The robot turns in the direction with the farther obstacle and continues moving forward until the next obstacle is reached.
 
-![Samuel H finalmilestone ](https://res.cloudinary.com/marcomontalbano/image/upload/v1658500648/video_to_markdown/images/youtube--akQv5ePTqw0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/akQv5ePTqw0 "Samuel H finalmilestone "){:target="_blank" rel="noopener"}
+![Samuel H finalmilestone ](https://res.cloudinary.com/marcomontalbano/image/upload/v1658500648/video_to_markdown/images/youtube--akQv5ePTqw0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/akQv5ePTqw0 "Samuel H finalmilestone ") {:target="_blank" rel="noopener"}
 
 
 # Second Milestone
